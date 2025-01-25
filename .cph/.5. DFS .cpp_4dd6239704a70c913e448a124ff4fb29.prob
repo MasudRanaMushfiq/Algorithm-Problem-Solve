@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"c:\\Users\\Lenovo\\Desktop\\Academic Books\\2.2\\Algorithm\\LAB\\5. DFS .cpp","tests":[{"id":1736315385787,"input":"4 5\n1 2\n2 3\n2 4\n4 5\n2 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Lenovo\\Desktop\\Academic Books\\2.2\\Algorithm\\LAB\\5. DFS .cpp","group":"local","local":true}
