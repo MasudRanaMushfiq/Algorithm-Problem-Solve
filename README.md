@@ -8,4 +8,4 @@ Welcome to my **Algorithm Notes** and **Problem Solving Repository**! Here, I do
 Clone this repository to your local machine using:
 
 ```bash
-https://github.com/MasudRanaMushfiq/Algorithm-Problem-Solve-2.2-.git
+https://github.com/MasudRanaMushfiq/Algorithm-Problem-Solve
