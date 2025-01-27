@@ -8,7 +8,8 @@ int main() {
         for (char digit : str) {
             arr.push_back(digit - '0');
         }
-    }
+    }  
+
 
     int a; 
     cin>>a;
