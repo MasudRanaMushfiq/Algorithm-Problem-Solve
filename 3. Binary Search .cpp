@@ -29,7 +29,6 @@ int main() {
     }
 
     cin >> target;
-    // Sort the array (binary search requires a sorted array)
     sort(arr.begin(), arr.end());
 
     int result = binarySearch(arr, target);

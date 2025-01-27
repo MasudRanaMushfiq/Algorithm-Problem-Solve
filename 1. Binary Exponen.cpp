@@ -11,18 +11,6 @@ long long binaryExponentiation(long long base, long long power) {
         base = base * base;
         power = power / 2;
     }
-    
-    // while(b>0){
-    // if(b & 1){
-    //     rest = rest * a;
-    //     b--;
-    // }else{
-    // a = a * a;
-    // b = b >> 1;
-    // }
-    // }
-    // return rest;
-    // }
 
     return result;
 }

@@ -11,7 +11,7 @@ void bfs(int node){
 		dis[node]=0;
 	while(!q.empty()){
 		int a=q.front();
-		cout<<a<<" -> "; //output
+		cout<<a<<" -> ";
 		q.pop();
 		for(int child: v[a]){
 			if(vis[child]==0){
@@ -32,7 +32,7 @@ int main(){
 		v[y].push_back(x);
 	}
 	bfs(4);
-	for(i=1;i<=n;i++){          //print
+	for(i=1;i<=n;i++){
 		cout<<"The level of "<<i<<" is: "<<dis[i]<<endl;
 	}
 	return 0;
