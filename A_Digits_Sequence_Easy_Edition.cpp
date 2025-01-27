@@ -9,7 +9,7 @@ int main() {
             arr.push_back(digit - '0');
         }
     }  
-
+ 
 
     int a; 
     cin>>a;
